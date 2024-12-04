@@ -1,4 +1,2 @@
-const m= " mercado pago"
+const m= " devedor"
 console.log(M)
-const m= "whatsapp
-console.log (m)
