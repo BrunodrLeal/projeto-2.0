@@ -1,2 +1,2 @@
-const m= " devedor"
+const m= " pagamento"
 console.log(M)
